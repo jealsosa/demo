@@ -11,29 +11,29 @@
     },
     {
       "id": 2,
-      "nombre": "Andrea",
-      "apellido": "Montejo Salazar",
+      "nombre": "Victor",
+      "apellido": "Lopez",
       "telefono": "9961232325",
       "categoria": "Trabajo",
-      "fecha": "22/06/2021",
+      "fecha": "20/04/1997",
       "hora": "10:24"
     },
     {
       "id": 3,
-      "nombre": "Jose",
-      "apellido": "Poot Gomez",
+      "nombre": "Samantha",
+      "apellido": "Rosado",
       "telefono": "9812344546",
       "categoria": "Compras",
-      "fecha": "01/06/2021",
+      "fecha": "19/08/2000",
       "hora": "12:00"
     },
     {
       "id": 4,
-      "nombre": "Martha",
-      "apellido": "Turriza Caballero",
+      "nombre": "David",
+      "apellido": "Sosa",
       "telefono": "9961111617",
       "categoria": "Actividad Física",
-      "fecha": "05/06/2021",
+      "fecha": "28/11/1982",
       "hora": "08:00"
     }
   ]
